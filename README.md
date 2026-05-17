@@ -40,8 +40,7 @@ Please download the dataset from the following link:
 
 ### 📁 Final Structure
 
-  part-3-nlp-sequence-modeling/
-  
+    part-3-nlp-sequence-modeling/  
     ├── notebook.ipynb
     ├── README.md
     ├── dataset/
