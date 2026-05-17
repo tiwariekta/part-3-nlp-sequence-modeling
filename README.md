@@ -42,7 +42,7 @@ Please download the dataset from the following link:
 
   part-3-nlp-sequence-modeling/
   
-    ├──_ notebook.ipynb
+    ├── notebook.ipynb
     ├── README.md
     ├── dataset/
     │   └── customer_support_text_classification.csv
