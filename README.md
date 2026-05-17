@@ -41,10 +41,11 @@ Please download the dataset from the following link:
 ### 📁 Final Structure
 
 part-3-nlp-sequence-modeling/
-├── notebook.ipynb
-├── README.md
-├── dataset/
-│   └── customer_support_text_classification.csv
+
+ ├── notebook.ipynb
+ ├── README.md
+ ├── dataset/
+ │   └── customer_support_text_classification.csv
 
 ---
 
